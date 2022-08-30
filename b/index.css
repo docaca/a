@@ -1,0 +1,17 @@
+.corpo{
+    background-color: pink;
+}
+.niver{
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 300px;
+    
+}
+.a{
+    color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
